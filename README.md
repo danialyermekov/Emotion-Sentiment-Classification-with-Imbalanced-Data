@@ -104,7 +104,7 @@ The goal of this project is to investigate how different data augmentation and b
 Each split maintains language and class distribution proportions.
 
 ## Project Structure
-
+```bash
 .
 ├── csv/
 │ ├── raw/ \# Original unprocessed data
@@ -116,7 +116,7 @@ Each split maintains language and class distribution proportions.
 ├── requirements.txt
 ├── README.md
 └── report.pdf
-
+```
 ## Installation
 
 ### Prerequisites
