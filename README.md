@@ -1,12 +1,17 @@
 ### Multilingual Emotion Classification with Data Augmentation
 
-Datasets: https://github.com/sotlampr/universal-joy
+## Resources & Downloads
 
-Models: 
+### 📊 Dataset
+**Universal Joy**  
+🔗 [GitHub Repository](https://github.com/sotlampr/universal-joy)
 
-Experiment 1: https://drive.google.com/file/d/18nvhSougm3-5E0lfF9zBX6UTqCBfoIuH/view?usp=sharing
+### Trained Models
+#### **Experiment 1**
+📥 [Download Checkpoint (Google Drive)](https://drive.google.com/file/d/18nvhSougm3-5E0lfF9zBX6UTqCBfoIuH/view?usp=sharing)
 
-Experiment 2: https://drive.google.com/file/d/1qkaKnuZ94Ew9ivofQMclUWIuE36c175B/view?usp=sharing
+#### **Experiment 2**
+📥 [Download Checkpoint (Google Drive)](https://drive.google.com/file/d/1qkaKnuZ94Ew9ivofQMclUWIuE36c175B/view?usp=sharing)
 
 This project explores multilingual emotion classification (5 classes: `anger`, `anticipation`, `fear`, `joy`, `sadness`) across multiple languages, with a focus on comparing different data balancing strategies and augmentation techniques. The study includes three main experiments and a comparison with an LLM baseline.
 
